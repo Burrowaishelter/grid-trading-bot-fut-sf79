@@ -1,4 +1,4 @@
-# 
+# instant Trading Bot for grid trading bot for futures | isolated-margin & cross-margin offers the most advanced grid trading bot for futures, with isolated-margin and cross-margin.
 
 
 
